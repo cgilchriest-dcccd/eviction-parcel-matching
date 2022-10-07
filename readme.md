@@ -4,10 +4,10 @@
 
 Sample demonstration of matching East Dallas eviction records to parcels. 
 
-In sample area:
--- 81% (3,757 out of 4,637) could be linked with a high degree of confidence to a parcel/DCAD account.
--- 67% of multifamily units had at least one eviction
--- 85% of all evcitions took place in multifamily. 
+In sample area:  
+-- 81% (3,757 out of 4,637) could be linked with a high degree of confidence to a parcel/DCAD account.  
+-- 67% of multifamily units had at least one eviction  
+-- 85% of all evcitions took place in multifamily.  
 
 Note that its possible to get an address match but not be able to tell precisely which condo or unit of a building, i.e. one parcel can have multiple associated accounts. So I just grouped by the parcel itself, and counted unique evictions by property.
 
