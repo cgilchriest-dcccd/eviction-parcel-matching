@@ -15,6 +15,8 @@ To review eviction counts by DCAD building class/type, access data [here](https:
 
 To review permit filings by proximity to sale, access data [here](https://dcccd-my.sharepoint.com/:x:/g/personal/cmg0003_dcccd_edu/EXpB8fXSillLntmI_KRk7w0B-WCLN1hRscXuIihlvgsMyQ?e=xlT7Lz&CID=2E16EC52-B7EA-457B-84AD-B227CD2EE2A3).
 
+To review sample script for processing, access [here](https://github.com/cgilchriest-dcccd/eviction-parcel-matching/blob/main/public_example.py).
+
 ## Contact
 Please contact cgilchriest@dallascollege.edu with questions. 
 
